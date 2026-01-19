@@ -1,0 +1,60 @@
+pattern,response,tag
+hi,"Hello! How can I help you?",greeting
+hello,"Hi there!",greeting
+hey,"Hello!",greeting
+hai,"Hello! How may I assist you?",greeting
+hii,"Hi! How can I help?",greeting
+how are you,"I am fine. How can I assist you?",greeting
+good morning,"Good morning! How can I help?",greeting
+good evening,"Good evening! How can I assist?",greeting
+
+bye,"Goodbye! Have a nice day.",goodbye
+goodbye,"Bye! Take care.",goodbye
+see you,"See you later!",goodbye
+tata,"Bye! See you soon.",goodbye
+
+thanks,"You're welcome!",thanks
+thank you,"Happy to help!",thanks
+thanks a lot,"Glad I could help!",thanks
+
+what is ai,"AI stands for Artificial Intelligence.",about_ai
+define ai,"Artificial Intelligence is the simulation of human intelligence.",about_ai
+explain ai,"AI is a technology that makes machines smart.",about_ai
+use of ai,"AI is used in automation, healthcare and smart systems.",about_ai
+
+what is ml,"ML stands for Machine Learning.",ml
+define ml,"Machine Learning is a subset of Artificial Intelligence.",ml
+explain ml,"Machine Learning allows systems to learn from data.",ml
+use of ml,"ML is used in prediction, automation and data analysis.",ml
+
+what is computer vision,"Computer Vision is a field of AI that enables computers to see and understand images.",computer_vision
+define computer vision,"Computer Vision allows machines to interpret visual data.",computer_vision
+use of computer vision,"Computer Vision is used in face recognition, self-driving cars and medical imaging.",computer_vision
+
+what is computer version,"Computer Vision is a field of AI that enables computers to see and understand images.",computer_vision
+define computer version,"Computer Vision allows machines to interpret visual data.",computer_vision
+computer version meaning,"Computer Vision helps computers understand images and videos.",computer_vision
+
+what is human,"Human refers to a person.",human
+define human,"A human is a member of the species Homo sapiens.",human
+meaning of human,"Humans are intelligent living beings.",human
+
+i am sad,"I'm sorry you feel that way. Things will get better.",emotion_sad
+feeling low,"I'm here for you.",emotion_sad
+i feel bad,"It's okay to feel this way.",emotion_sad
+
+i am happy,"That's great to hear!",emotion_happy
+feeling good,"Awesome! Keep smiling!",emotion_happy
+i feel nice,"Glad to hear that!",emotion_happy
+
+tell me a joke,"Why don’t programmers like nature? Because it has too many bugs!",joke
+make me laugh,"Why did the computer go to the doctor? Because it caught a virus!",joke
+joke,"Why do Java developers wear glasses? Because they don't C#!",joke
+
+what is the time,"Checking time...",time
+tell me the time,"Let me tell you the time...",time
+current time,"Here is the current time...",time
+
+what is the date,"Checking date...",date
+today date,"Let me tell you today’s date...",date
+what is todays date,"Here is today’s date...",date
